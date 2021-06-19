@@ -2,7 +2,7 @@
   "name": "@mapbox/geojson-rewind",
   "version": "0.5.1",
   "description": "enforce winding order for geojson",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "bin": "geojson-rewind",
   "directories": {
     "test": "test"
