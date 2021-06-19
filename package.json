@@ -4,16 +4,6 @@
   "description": "enforce winding order for geojson",
   "main": "./dist/index.js",
   "bin": "geojson-rewind",
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "test": "tape test/rewind.js"
-  },
-  "files": [
-    "index.js",
-    "geojson-rewind"
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/mapbox/geojson-rewind.git"
